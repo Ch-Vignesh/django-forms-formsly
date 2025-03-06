@@ -2,4 +2,5 @@
 *.sqlite3-journal
 *.pyo
 *.pyc
+venv
 data
